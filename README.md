@@ -1,1 +1,1 @@
-# Arduino - 3 buton kullanarak 5 ledi çeşitli animasyonlar gerçekleştirecek şekilde yakmak
+# Arduino Uno - 3 buton kullanarak 5 ledi çeşitli animasyonlar gerçekleştirecek şekilde yakmak
